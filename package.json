@@ -1,6 +1,6 @@
 {
-  "name": "react-medium-image-zoom",
-  "version": "5.1.11",
+  "name": "react-medium-image-zoom-fixed",
+  "version": "5.1.12",
   "license": "BSD-3-Clause",
   "description": "Accessible medium.com-style image zoom for React",
   "type": "module",
@@ -12,11 +12,10 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rpearce/react-medium-image-zoom.git"
+    "url": "git@github.com:netrolite/react-medium-image-zoom.git"
   },
-  "homepage": "https://github.com/rpearce/react-medium-image-zoom",
-  "bugs": "https://github.com/rpearce/react-medium-image-zoom/issues",
-  "author": "Robert Pearce <me@robertwpearce.com> (https://robertwpearce.com)",
+  "homepage": "https://github.com/netrolite/react-medium-image-zoom",
+  "bugs": "https://github.com/netrolite/react-medium-image-zoom/issues",
   "contributors": [
     "Robert Pearce <me@robertwpearce.com> (https://robertwpearce.com)",
     "Cameron Bothner (https://github.com/cbothner)",
@@ -34,12 +33,6 @@
     "Josh-Cena <sidachen2003@gmail.com> (https://joshcena.com)",
     "Yida Zhang <zjhch123@qq.com>",
     "eych"
-  ],
-  "funding": [
-    {
-      "type": "github",
-      "url": "https://github.com/sponsors/rpearce"
-    }
   ],
   "keywords": [
     "react",

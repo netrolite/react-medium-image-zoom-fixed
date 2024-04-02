@@ -671,7 +671,7 @@ class ControlledBase extends React.Component<ControlledPropsWithDefaults, Contro
     // Get clientWidth before setting overflow: 'hidden'
     const clientWidth = document.body.clientWidth
 
-    document.body.style.overflow = 'hidden'
+    document.body.style.overflow = 'clip'
     document.body.style.width = `${clientWidth}px`
   }
 
